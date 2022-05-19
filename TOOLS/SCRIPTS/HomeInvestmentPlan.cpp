@@ -141,7 +141,7 @@ int main() {
     cout << "**Home Investment Algorithm**\n";
     cout << "Do you have a completed an emergency buffer of 50?\n";
     cout << "Do you have 6 month food storage?\n\n\n";
-    cout << "If not don't even look at the next lines crazy head?\n\n\n";
+    cout << "If not, DON't even look at the next lines cRazY Head!!!\n\n\n";
     invest401k();
 
     cout << "Assuming you do, let's see today's mortgage interest rate\n";
