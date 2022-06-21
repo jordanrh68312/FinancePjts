@@ -49,7 +49,7 @@ void idealMortgage()
 
 bool isAHouseAffordable()
 {
-	bool isAffordable = true;
+    bool isAffordable = true;
     double monthly = calculatedMonthlyPayment();
     cout<<"Total monthly bill will be: "<<monthly<<"\n";
     double mGIpercent =  monthly/monthlyGrossIncome*100;
@@ -120,8 +120,9 @@ int main() {
 
 
     cout << "**Home Investment Algorithm**\n";
-    cout << "Do you have a completed buffer of 50?\n";
+    cout << "Do you have a completed an emergency buffer of 50?\n";
     cout << "Do you have 6 month food storage?\n\n\n";
+    cout << "If not, DON't even look at the next lines cRazY Head!!!\n\n\n";
     invest401k();
 
     cout << "Assuming you do, let's see today's mortgage interest rate\n";
