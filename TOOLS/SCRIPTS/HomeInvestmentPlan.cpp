@@ -6,25 +6,6 @@ using namespace std;
 
 /*
 This little program is to help me organize my thoughts.
-I recently decided to buy a lot of stock while the market was slightly lower than usual.
-Although this is a good practice. It was a bit premature. If I earned about $26,000 more than I do now, no problem!
-
-If I were to do it over again I would have 1st finished building up the buffer and 2nd stashed all my income towards
-paying off one of the mortgages. 
-
-In general there is nothing wrong with buying stocks when they are lower, but I think I didn't approach this with the right
-perspective. **I think 3 is our magic number of mortgages especially if we can buy them for the right price.**
-Until I have 3 mortgages out I should be preparing to get the 3.
-
-As an aside on a macro level the govt just pumped 4-7 trillion dollars into the economy. Stocks are totally inflated. Housing prices are
-probably as well but it is not doomed to go down until things actually reflect there true value. 
-I had recently listened to 401k millionaires and they told me to maximize my contributions. 
-Although that is still true, by building my buffer, then paying off my debt, my business would be more stable, 
-I will be more prepared for the next real estate investment and there I will be able to leverage that money now
-as opposed to waiting until I am 59. 
-
-I do think it will still be good to buy when markets crash, but I should get the 3rd house first and do my best to improve my situation
-by paying down my debt.
 */
 double interestRate = 5.11; //pull from API.
 double r = (interestRate /100) / 12;
