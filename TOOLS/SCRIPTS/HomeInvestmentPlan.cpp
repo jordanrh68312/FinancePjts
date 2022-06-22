@@ -6,6 +6,15 @@ using namespace std;
 
 /*
 This little program is to help me organize my thoughts.
+We have 3 investment avenues we can pursue; Buying a house, 401K/IRA(s), paying down debt.
+
+It is clear when to pay 401K/IRA is when the market is going down, but nothing else seems so cut and dry
+Questions:
+What is our debt to house ration? 1 mortgage per 2 houses?
+When should we try to ^ our income regardless of the tax burden?
+When should we minimize our tax burden?
+When should we buy a new house? - when interest rates are down. probably. Or buy them high and refinance them at the next fall?
+ When should we pay off a loan? when we have exceeded our comfortable risk tolerance or when there are few prospects.
 */
 double interestRate = 5.11; //pull from API.
 double r = (interestRate /100) / 12;
